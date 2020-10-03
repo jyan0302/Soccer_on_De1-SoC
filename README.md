@@ -24,3 +24,6 @@ KEY0: Rotate kick clockwise
 KEY1: Rotate kick counter-clockwise
 KEY2: Kick
 KEY3: Reset game
+
+Sidenote:
+The code itself shouldn't be that difficult to understand with a basic knowledge of C. Making new levels is pretty simple.
